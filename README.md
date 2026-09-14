@@ -116,3 +116,4 @@ python main.py
 - 依赖使用 `opencv-contrib-python`，**不要同时安装 `opencv-python`**，两个包共存可能导致 `cv2` 导入异常。
 - 需要可用的网络摄像头，否则无法进行手势与表情识别。
 
+「素材仅供学习交流，版权归原作者」
