@@ -1,0 +1,6 @@
+# 已实测通过的运行环境：Python 3.13 (Windows 10/11)
+# 注意：mediapipe 0.10.11 没有 Python 3.13 的安装包，不能用旧版本号，否则 pip 会直接报错。
+pygame==2.6.1
+opencv-contrib-python==4.13.0.92
+mediapipe==0.10.30
+numpy==2.4.3

@@ -1,0 +1,14 @@
+# 文本文件统一使用 LF 换行，避免 Windows / macOS 协作时出现整文件 diff
+* text=auto eol=lf
+
+# 二进制素材禁用换行转换，否则文件会被损坏
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.ogg  binary
+*.mp3  binary
+*.wav  binary
+*.ttf  binary
+*.otf  binary
