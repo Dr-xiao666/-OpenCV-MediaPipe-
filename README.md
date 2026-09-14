@@ -116,14 +116,3 @@ python main.py
 - 依赖使用 `opencv-contrib-python`，**不要同时安装 `opencv-python`**，两个包共存可能导致 `cv2` 导入异常。
 - 需要可用的网络摄像头，否则无法进行手势与表情识别。
 
-## 作者
-
-本项目由以下两位同学共同开发，其中 **[@Dr-xiao666](https://github.com/Dr-xiao666) 为项目主导者**，负责整体方案设计与核心功能实现。
-
-| 顺序 | 成员 | GitHub | 角色 | 主要分工 |
-| --- | --- | --- | --- | --- |
-| 1 | 待补充 | [@Dr-xiao666](https://github.com/Dr-xiao666) | **主导开发** | 待补充（例如：整体架构、手势识别与切割判定、游戏主循环、Boss 战） |
-| 2 | 待补充 | [@同学的GitHub用户名](https://github.com/同学的GitHub用户名) | 参与开发 | 待补充（例如：表情识别切换模式、排行榜系统、UI 与美术素材） |
-
-> 仓库由主导者维护，欢迎通过 Issue 或 Pull Request 参与改进。
-
